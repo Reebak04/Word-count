@@ -36,6 +36,7 @@ using print() display the output
 End of the program
 
 ## PROGRAM:
+```
 '''
 developed by : Tejusve Kabeer.F
 reference.no : 22002543
@@ -46,6 +47,7 @@ with open('exp1.py','r') as file:
         word=i.split()
         num_words+=len(word)
 print("The number of words is:",num_words)
+```
 
 ### OUTPUT:
 ![wrdcnt](https://user-images.githubusercontent.com/118364993/214785250-2c8a22d8-ac24-4ebf-b55d-0ddb79bec55c.png)
