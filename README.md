@@ -6,8 +6,8 @@ To write a python program for getting the word count from a text.
 
 ## EQUIPEMENT'S REQUIRED: 
 
-PC
-Anaconda - Python 3.7
+     1.PC
+     2.Anaconda - Python 3.7
 
 ## ALGORITHM: 
 
